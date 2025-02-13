@@ -20,7 +20,7 @@ Cleans and processes data for analytics.
 # Loading: 
 Stores processed data in a structured format for further use.
 
-#Technologies Used:
+# Technologies Used:
 Python (Pandas, sqlalchemy)
 PostgreSQL
 
