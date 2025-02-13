@@ -1,3 +1,4 @@
+# E-commerce ETL Pipeline
 # bigdata
 
 Name - Surafel G/selassie
@@ -6,7 +7,6 @@ id - 0430/13
 
 Link to the Dataset - https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
 
-E-commerce ETL Pipeline
 This project implements an ETL (Extract, Transform, Load) pipeline for an e-commerce dataset. The pipeline extracts raw data and, transforms it by cleaning and structuring it for analysis, and loads it into a postgresql database.
 
 Features:
